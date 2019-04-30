@@ -1,0 +1,2 @@
+# wxmclub.github.io
+Blog
